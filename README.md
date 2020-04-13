@@ -1,7 +1,7 @@
 # maixduino-ili9341
 Maixduino (Kendryte K210 AI accelerator) with ILI9341-based TFT display
 
-### Wiring Maixduino - ILI9341**
+### Wiring Maixduino - ILI9341
 - 12        - SDO/MISO
 - 3V3       - LED
 - 13        - SCK
